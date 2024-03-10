@@ -1,7 +1,7 @@
 # Utilize LOB data with DNN base model to trade Cryptocurrency
 
 ## Task Description
-I am trying to use deep neural network model to find the information in LOB(Limit order book) to predict the trend of cryptocurrency price. I try to utilize two model in two paper, which are DeepLOB by Zhang, Zohren and Roberts([paper link](https://arxiv.org/abs/1808.03668)) and Axial-LOB by Kisiel and Gorse([paper link](https://arxiv.org/abs/2212.01807)). In DeepLOB, they use CNN to construct the model. In Axial-LOB they use transformer to construct the model.
+I am trying to use deep neural network model to find the information in LOB(Limit order book) to predict the trend of cryptocurrency price. I try to utilize two model in two paper, which are DeepLOB by Zhang, Zohren and Roberts ([paper link](https://arxiv.org/abs/1808.03668)) and Axial-LOB by Kisiel and Gorse ([paper link](https://arxiv.org/abs/2212.01807)). In DeepLOB, they use CNN to construct the model. In Axial-LOB they use transformer to construct the model.
 
 ## Result
 I make the profit 3% more then purely hold strategy during about 2 days. Plot of profit of my strategy:
